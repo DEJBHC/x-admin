@@ -13,7 +13,9 @@
 
  Date: 27/06/2021 21:50:30
 */
-
+DROP DATABASE IF EXISTS `x-admin`;
+CREATE DATABASE `x-admin`;
+USE `x-admin`;
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
