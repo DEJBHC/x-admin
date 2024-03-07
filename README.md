@@ -47,9 +47,3 @@ Java后台：SpringBoot 3.3.0-SNAPSHOT + Mybatis-plus+ hutool工具包 + Apache 
 ![image](https://github.com/DEJBHC/x-admin/assets/92491404/9f6f3bd0-340b-41d6-a84b-6bbdc1340761)
 在线留言（默认隐藏了）
 ![image](https://github.com/DEJBHC/x-admin/assets/92491404/7c5989a4-a3bf-4525-af96-01cd623f29e2)
-
-个人信息页
-
-![](https://www.hualigs.cn/image/60a4714bcc446.jpg)
-
-
