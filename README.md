@@ -28,19 +28,16 @@ Java后台：SpringBoot 3.3.0-SNAPSHOT + Mybatis-plus+ hutool工具包 + Apache 
     `[https://gitee.com/xqnode/x-admin.git](https://github.com/DEJBHC/x-admin.git)`
 2. 使用idea打开x-admin文件夹导入工程
 3. 配置maven，下载项目依赖   
-4. 新建数据库x-admin，执行x-admin.sql
-   ![](https://www.hualigs.cn/image/60a4dec4a0c66.jpg)
-   ![](https://www.hualigs.cn/image/60a4645016b23.jpg)
-   
-5. 修改application.yml中的数据库密码
-   
-   ![](https://www.hualigs.cn/image/60a4648a823b5.jpg)
-   
-6. 项目依赖下载完成后，直接运行 Application 启动SpringBoot即可
-   
-   ![](https://www.hualigs.cn/image/60a4650b7d904.jpg)
-   
-7. 运行效果   
+4. 执行x-admin.sql
+   ![image](https://github.com/DEJBHC/x-admin/assets/92491404/fbec6962-ff04-44d4-ba84-bb191c8b2fc0)
+   ![image](https://github.com/DEJBHC/x-admin/assets/92491404/a964ce86-d6a6-42c0-b0ce-cd01182a490d)
+   ![image](https://github.com/DEJBHC/x-admin/assets/92491404/98e5b1bb-e7cc-45ce-a9d1-55f187077f55)
+   ![image](https://github.com/DEJBHC/x-admin/assets/92491404/e0518234-e1f1-421b-9d2a-49d640af59ea)
+6. 修改application.yml中的数据库密码
+   ![image](https://github.com/DEJBHC/x-admin/assets/92491404/0dc7d198-9693-492b-8300-274a9f85c6a3)   
+7. 项目依赖下载完成后，直接运行 Application 启动SpringBoot即可
+   ![image](https://github.com/DEJBHC/x-admin/assets/92491404/43adb6be-31c6-40f9-84ba-5f562214f9c1)   
+8. 运行效果   
    
    ![](https://www.hualigs.cn/image/60a464bbed518.jpg)
 
