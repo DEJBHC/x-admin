@@ -12,7 +12,7 @@ Java后台：SpringBoot 3.3.0-SNAPSHOT + Mybatis-plus+ hutool工具包 + Apache 
 前后端分离，页面可单独部署，默认放在项目的static文件夹，随后端工程一起访问。
 ## 🚁 安装教程
 1. 使用git下载本项目
-    `[https://gitee.com/xqnode/x-admin.git]((https://github.com/DEJBHC/x-admin.git))`
+    (https://github.com/DEJBHC/x-admin.git)
 2. 使用idea打开x-admin文件夹导入工程
 3. 配置maven，下载项目依赖   
 4. 执行x-admin.sql
