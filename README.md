@@ -26,11 +26,7 @@ Java后台：SpringBoot 3.3.0-SNAPSHOT + Mybatis-plus+ hutool工具包 + Apache 
 
 1. 使用git下载本项目
 
-    `https://gitee.com/xqnode/x-admin.git`
-
-    或者直接下载zip解压
-
-    ![下载zip](https://www.hualigs.cn/image/60a46392bf2a1.jpg)
+    `[https://gitee.com/xqnode/x-admin.git](https://github.com/DEJBHC/x-admin.git)`
 
 2. 使用idea打开x-admin文件夹导入工程
 
