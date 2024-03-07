@@ -77,7 +77,7 @@
 
 <script>
 
-    let urlBase = "/api/{lowerEntityName}/";
+    let urlBase = "/api/{lowerEntityName}";
     new Vue({
         el: "#wrapper",
         data: {
