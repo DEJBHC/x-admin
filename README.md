@@ -25,17 +25,10 @@ Java后台：SpringBoot 3.3.0-SNAPSHOT + Mybatis-plus+ hutool工具包 + Apache 
 ## 🚁 安装教程
 
 1. 使用git下载本项目
-
     `[https://gitee.com/xqnode/x-admin.git](https://github.com/DEJBHC/x-admin.git)`
-
 2. 使用idea打开x-admin文件夹导入工程
-
-3. 配置maven，下载项目依赖
-   
-   ![](https://www.hualigs.cn/image/60a463ef03442.jpg)
-   
+3. 配置maven，下载项目依赖   
 4. 新建数据库x-admin，执行x-admin.sql
-   
    ![](https://www.hualigs.cn/image/60a4dec4a0c66.jpg)
    ![](https://www.hualigs.cn/image/60a4645016b23.jpg)
    
