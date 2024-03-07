@@ -38,24 +38,14 @@ Java后台：SpringBoot 3.3.0-SNAPSHOT + Mybatis-plus+ hutool工具包 + Apache 
 7. 项目依赖下载完成后，直接运行 Application 启动SpringBoot即可
    ![image](https://github.com/DEJBHC/x-admin/assets/92491404/43adb6be-31c6-40f9-84ba-5f562214f9c1)   
 8. 运行效果   
-   
-   ![](https://www.hualigs.cn/image/60a464bbed518.jpg)
-
+   ![image](https://github.com/DEJBHC/x-admin/assets/92491404/f242f89e-b6de-48a2-9a11-2db4b721089e)
 ## 🛸 使用说明
-
 1. 登录页面请访问：http://localhost:9999/page/end/login.html
 2. 账号：admin，密码：admin
-
 ## 🎨 界面截图
-
 登录
-
-![](https://www.hualigs.cn/image/60a465c7e7d79.jpg)
-
+![image](https://github.com/DEJBHC/x-admin/assets/92491404/ab50d4c0-149a-47db-9600-05d2a551d030)
 注册
-
-![](https://www.hualigs.cn/image/60a46643d0549.jpg)
-
 项目主页
 
 ![](https://www.hualigs.cn/image/60a46662b622e.jpg)
