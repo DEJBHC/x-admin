@@ -1,29 +1,16 @@
 # 🚀 毕设脚手架 x-admin
-
-
 ## 🛫 介绍
 毕设脚手架工程，拿来即用，简单便捷，专为新手小白/毕设困难户打造，货真价实，童叟无欺
-
 ## 👑 核心功能
 自动生成代码，可以根据数据库表自动生成后台增删改查接口和前台的html代码，不用写代码就能做出一个管理系统！
-
 目前系统可以根据后台数据库的特定字段自动生成 `文本框`、 `下拉框（带数据关联）`、`日期控件（日期和日期时间控件）`、`单选按钮`、`文件上传（表格可直接显示图片）`等，方便舒适。
-
-
 ## 🚂 软件架构
 Java后台：SpringBoot 3.3.0-SNAPSHOT + Mybatis-plus+ hutool工具包 + Apache poi
-
 前台页面：Vue2.0 + ElementUI + Jquery + tinymce（富文本插件）
-
 数据库：Mysql 8.3.0
-
 **注意：JDK选择`21`版本，Mysql选择`8.3.0`版本**
-
 前后端分离，页面可单独部署，默认放在项目的static文件夹，随后端工程一起访问。
-
-
 ## 🚁 安装教程
-
 1. 使用git下载本项目
     `[https://gitee.com/xqnode/x-admin.git](https://github.com/DEJBHC/x-admin.git)`
 2. 使用idea打开x-admin文件夹导入工程
@@ -47,32 +34,19 @@ Java后台：SpringBoot 3.3.0-SNAPSHOT + Mybatis-plus+ hutool工具包 + Apache 
 ![image](https://github.com/DEJBHC/x-admin/assets/92491404/ab50d4c0-149a-47db-9600-05d2a551d030)
 注册
 项目主页
-
-![](https://www.hualigs.cn/image/60a46662b622e.jpg)
-
+![image](https://github.com/DEJBHC/x-admin/assets/92491404/13134f60-e22c-4964-8205-e85e22faddcc)
 用户管理
-
-![](https://www.hualigs.cn/image/60a4675546135.jpg)
-
+![image](https://github.com/DEJBHC/x-admin/assets/92491404/59a69de7-b31c-45e5-b05d-08842885e769)
 角色管理
-
-![](https://www.hualigs.cn/image/60a46755483e2.jpg)
-
+![image](https://github.com/DEJBHC/x-admin/assets/92491404/7c586d27-d2a5-48b6-a866-3248df3853c3)
 菜单管理
-
-![](https://www.hualigs.cn/image/60a4675548b33.jpg)
-
+![image](https://github.com/DEJBHC/x-admin/assets/92491404/c4fb245f-6c81-4282-a2ef-7c8c20357334)
 公告管理
-
-![](https://www.hualigs.cn/image/60a467ab49e80.jpg)
-
+![image](https://github.com/DEJBHC/x-admin/assets/92491404/619afa36-8328-4acb-a17b-a53eed60882a)
 日志管理
-
-![](https://www.hualigs.cn/image/60a467cfe30e7.jpg)
-
+![image](https://github.com/DEJBHC/x-admin/assets/92491404/9f6f3bd0-340b-41d6-a84b-6bbdc1340761)
 在线留言（默认隐藏了）
-
-![](https://www.hualigs.cn/image/60a46805c6ea1.jpg)
+![image](https://github.com/DEJBHC/x-admin/assets/92491404/7c5989a4-a3bf-4525-af96-01cd623f29e2)
 
 个人信息页
 
